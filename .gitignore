@@ -1,7 +1,0 @@
-*.zip
-/project
-.DS_Store
-.ipynb_checkpoints
-/assignment2/*.pth
-/assignment2/data
-/assignment2/__pycache__
